@@ -40,6 +40,9 @@ To make all dependencies required are installed, type "flutter pub get" on the o
 ### Step 4. Running the application
 To run the application, simply type "flutter run"
 
+## Schematic IOTS Device
+<img src="https://raw.githubusercontent.com/SafeFlare/.github/main/Schematic%20SafeFlare%20IOTS%20Device.png" height="500" />
+
 ## Screenshots of our apps
 <img src="https://raw.githubusercontent.com/SafeFlare/.github/main/Screenshot_2024-02-25-09-44-48-470_com.example.safe_flare.jpg" height="500" />
 <img src="https://raw.githubusercontent.com/SafeFlare/.github/main/Screenshot_2024-02-25-09-44-56-981_com.example.safe_flare.jpg" height="500" />
