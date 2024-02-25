@@ -23,7 +23,7 @@ Our app includes features to help combat wildfire, such as
 ## How to run the app
 In order to run the app, follow these steps
 
-## Step 1. clone the repository
+## Step 1. Clone the flutter repository
 The repository is available at ...
 
 ## Step2. Opening the terminal
