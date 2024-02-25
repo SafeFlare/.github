@@ -28,16 +28,16 @@ Our app includes features to help combat wildfire, such as
 ## How to run the app
 In order to run the app, follow these steps
 
-## Step 1. Clone the safe flare flutter repository
+### Step 1. Clone the safe flare flutter repository
 The repository is available at https://github.com/SafeFlare/safe_flare_flutter_codebase
 
-## Step2. Opening the terminal
+### Step2. Opening the terminal
 Make sure you open the root folder of the project, and open the terminal there
 
-## Step 3. Installing dependencies
+### Step 3. Installing dependencies
 To make all dependencies required are installed, type "flutter pub get" on the opened terminal
 
-## Step 4. Running the application
+### Step 4. Running the application
 To run the application, simply type "flutter run"
 
 ## Screenshots of our apps
