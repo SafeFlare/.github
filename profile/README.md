@@ -6,6 +6,9 @@ SafeFlare is a mobile app built using flutter to help prevent the spread of wild
 
 In line with SDG's number 3 (good health and well beings), 13 (climate action) and 15 (life on land). We hope to help prevent massive land destruction and unnecessary health risk caused by these wildfires.
 
+Download apps and more information:
+https://safeflare-jfrbg3xq6a-as.a.run.app/
+
 ## How do our app help?
 Our app includes features to help combat wildfire, such as
 - IOT integration to monitor wind direction, temperature and humidity to detect possible wildfire risk
@@ -22,11 +25,13 @@ Our app includes features to help combat wildfire, such as
 - Updating Demo Video Quality 
 
 ## Our assets
-- IOT code :
-- Machine learning code : 
+- IOT code : https://github.com/SafeFlare/IOTS_Code
+- Machine learning code : https://github.com/SafeFlare/Machine_Learning
+- Backend code : https://github.com/SafeFlare/Backend_Code
 - SafeFlare app code : https://github.com/SafeFlare/safe_flare_flutter_codebase
 
 ## Youtube demo
+https://www.youtube.com/watch?v=6Hi_P_NbnF8
 
 ## How to run the app
 In order to run the app, follow these steps
@@ -50,7 +55,9 @@ To run the application, simply type "flutter run"
 <img src="https://raw.githubusercontent.com/SafeFlare/.github/main/SafeFlare%203D%20IOTS%20Model.png" height="500" />
 
 ## Screenshots of our apps
+<p align="center">
 <img src="https://raw.githubusercontent.com/SafeFlare/.github/main/Screenshot_2024-02-25-09-44-48-470_com.example.safe_flare.jpg" height="500" />
 <img src="https://raw.githubusercontent.com/SafeFlare/.github/main/Screenshot_2024-02-25-09-44-56-981_com.example.safe_flare.jpg" height="500" />
 <img src="https://raw.githubusercontent.com/SafeFlare/.github/main/Screenshot_2024-02-25-09-45-03-172_com.example.safe_flare.jpg" height="500" />
 <img src="https://raw.githubusercontent.com/SafeFlare/.github/main/Screenshot_2024-02-25-09-45-10-032_com.example.safe_flare.jpg" height="500" />
+</p>
