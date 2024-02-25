@@ -17,6 +17,9 @@ Our app includes features to help combat wildfire, such as
 ## Next feature
 - Working realtime notification system to warn the user if there's a confirmed wildfire reports near their area
 - A system that can predict the wildfire in the future using machine learning algorithm
+- Make 3D Printer Model
+- Integration wind speed 
+- Updating Demo Video Quality 
 
 ## Our assets
 - IOT code :
@@ -42,6 +45,9 @@ To run the application, simply type "flutter run"
 
 ## Schematic IOTS Device
 <img src="https://raw.githubusercontent.com/SafeFlare/.github/main/Schematic%20SafeFlare%20IOTS%20Device.png" height="500" />
+
+## 3D Model IOTS Device
+<img src="https://raw.githubusercontent.com/SafeFlare/.github/main/SafeFlare%203D%20IOTS%20Model.png" height="500" />
 
 ## Screenshots of our apps
 <img src="https://raw.githubusercontent.com/SafeFlare/.github/main/Screenshot_2024-02-25-09-44-48-470_com.example.safe_flare.jpg" height="500" />
