@@ -1,5 +1,8 @@
 ## SafeFlare
-SafeFlare is a mobile app built using flutter to help prevent the spread of wildfire before it causes a lot of destruction for the people around them. And it uses IOT technology to show an accurate data of a possible wildfire spread in order to properly warn the local about a potential wildfire.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SafeFlare/.github/main/SafeFlare.png" />
+</p>
+SafeFlare is a mobile app built using flutter to help prevent the spread of wildfire before it causes a lot of destruction for the people around them. And it uses IOT technology to show an accurate data of a possible wildfire spread in order to properly warn the local about a potential wildfire.<br><br>
 
 In line with SDG's number 3 (good health and well beings), 13 (climate action) and 15 (life on land). We hope to help prevent massive land destruction and unnecessary health risk caused by these wildfires.
 
@@ -36,3 +39,7 @@ To make all dependencies required are installed, type "flutter pub get" on the o
 To run the application, simply type "flutter run"
 
 ## Screenshots of our apps
+<img src="https://raw.githubusercontent.com/SafeFlare/.github/main/Screenshot_2024-02-25-09-44-48-470_com.example.safe_flare.jpg" height="500" />
+<img src="https://raw.githubusercontent.com/SafeFlare/.github/main/Screenshot_2024-02-25-09-44-56-981_com.example.safe_flare.jpg" height="500" />
+<img src="https://raw.githubusercontent.com/SafeFlare/.github/main/Screenshot_2024-02-25-09-45-03-172_com.example.safe_flare.jpg" height="500" />
+<img src="https://raw.githubusercontent.com/SafeFlare/.github/main/Screenshot_2024-02-25-09-45-10-032_com.example.safe_flare.jpg" height="500" />
