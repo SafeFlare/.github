@@ -20,16 +20,16 @@ Our app includes features to help combat wildfire, such as
 
 ## Our assets
 - IOT code :
-- Machine learning code :
-- SafeFlare app code :
+- Machine learning code : 
+- SafeFlare app code : https://github.com/SafeFlare/safe_flare_flutter_codebase
 
 ## Youtube demo
 
 ## How to run the app
 In order to run the app, follow these steps
 
-## Step 1. Clone the flutter repository
-The repository is available at ...
+## Step 1. Clone the safe flare flutter repository
+The repository is available at https://github.com/SafeFlare/safe_flare_flutter_codebase
 
 ## Step2. Opening the terminal
 Make sure you open the root folder of the project, and open the terminal there
